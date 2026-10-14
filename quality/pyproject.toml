@@ -1,0 +1,12 @@
+[project]
+name = "tabris-quality"
+version = "0.1.0"
+description = "Reproducible quality evaluation for the Tabris image hash"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=2.0",
+    "pillow>=11.0",
+]
+
+[tool.uv]
+package = false

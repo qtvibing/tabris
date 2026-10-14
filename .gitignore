@@ -1,0 +1,6 @@
+.zig-cache/
+zig-out/
+quality/.venv/
+quality/__pycache__/
+quality/data/
+quality/results/
